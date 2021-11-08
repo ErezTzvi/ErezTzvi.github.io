@@ -33,7 +33,7 @@
 ## Lecture 2
 
 ### git commends
-'''
+```
 git config --global --add user.name 'Foo Bar'
 git config --global --add user.email foo@bar.com
 git init                  
@@ -52,11 +52,11 @@ git push
 
 git clone
 git pull
-'''
+```
 
 ### Starting HTML
 
-'''
+```
 HTML
 
 HTML elements, attributes
@@ -71,6 +71,6 @@ title
 table, tr, th, td
 
 div, span
-'''
+```
 
 [x] Homework
