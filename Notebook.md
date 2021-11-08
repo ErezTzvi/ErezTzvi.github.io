@@ -73,4 +73,4 @@ table, tr, th, td
 div, span
 ```
 
-[x] Homework
+- [x] Homework
