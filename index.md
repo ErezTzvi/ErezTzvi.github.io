@@ -7,6 +7,6 @@
 * I did my bachelor degree in TLV university
 
 ## Check out other pages:
-1. aaa
-1. ddd
-1. ssss
+1. [Notebook](https://ereztzvi.github.io/Notebook)
+1. [Exercism](https://ereztzvi.github.io/Exercism)
+1. [HTML](add_later)
