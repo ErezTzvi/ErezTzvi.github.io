@@ -9,4 +9,4 @@
 ## Check out other pages:
 1. [Notebook](https://ereztzvi.github.io/Notebook)
 1. [Exercism](https://ereztzvi.github.io/Exercism)
-1. [HTML](add_later)
+1. [HTML](https://ereztzvi.github.io/Docs)
