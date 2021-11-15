@@ -74,3 +74,6 @@ div, span
 ```
 
 - [x] Homework
+# class 3
+
+* went over sites. Needs to correct the links for next week.
